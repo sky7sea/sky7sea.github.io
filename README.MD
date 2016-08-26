@@ -1,20 +1,27 @@
-Sungwook Lee
+**Sungwook Lee**
+
 3049 Montrose Ave. #49
+
 La Crescenta, CA 91214
+
 818-823-7477
+
 sky7sea@gmail.com
+
 https://www.linkedin.com/in/sungwook-lee-12b24577
 
-####Objective
+**Objective**
+
 To obtain a position of IT manager
 
-####Qualification
+**Qualification**
+
 - 11 years and more experience configuring and managing data systems within educational institution.
 - Proven leadership in a major technology projects.
 - Proficient in Google Apps, Microsoft Word, Excel and Access.
 - Collaborates with the branch directors, develops policy and directs the processes of the technology systems related to the institution admission and student data management.
 - Provides visionary leadership in the application of technology to improve services to applicable to students and families applying for admission.
-- Reviews systems and data management procedures and champions the adoption and implementation of improvements and upgrades. 
+- Reviews systems and data management procedures and champions the adoption and implementation of improvements and upgrades.
 - Manages data integrity issues and offers solutions to solve as needed for the office.
 - Develops and maintains reliable reporting tools to manage enrollment functions, gauge enrollment-tied revenue goals, and improve efficiency and effective use of resources.
 - Develops the operating systems, policies, procedures, and priorities for the department.
@@ -26,11 +33,13 @@ To obtain a position of IT manager
 - Monitors processing cycles for problem areas and the accuracy of the staff.  Assists in these systems as needed to correct any deficiencies.
 - Directs a strength-based program of staff development, training, and performance appraisal system.
 
-####Experience
-Director of IT	
-Elite Educational Institute, Los Angeles, CA (2004 - Present)
+**Experience**
 
-- Created an automated procedure for an event registration from scratch with Google Apps Script including a live registration statistics. 
+Director of IT                                                                                        Los Angeles, CA
+
+Elite Educational Institute                                                                        2004 - Present
+
+- Created an automated procedure for an event registration from scratch with Google Apps Script including a live registration statistics.
 - Participated and planned the annual company events in charge of the various IT supports.
 - Trained the branch IT staff of 25 US branches and 23 overseas branches in regular basis and on demand.
 - Monitored and evaluated the performance of IT staff of each branch.
@@ -50,24 +59,27 @@ Elite Educational Institute, Los Angeles, CA (2004 - Present)
 - Provide data essential for determining operational budget and expenditures.
 - Review and approve all systems charts and programs prior to their implementation.
 - Advising the procedures of daily operations, analyzing workflow, establishing priorities, developing standards and setting deadlines.
-- Evaluate the organization's technology use and needs and recommend improvements, such as hardware and software upgrades.
+- Evaluate the organization&#39;s technology use and needs and recommend improvements, such as hardware and software upgrades.
 - Prepare and review operational reports or project progress reports.
 - Purchase necessary equipment.
 
-Research Assistant										
-UCLA, Los Angeles, CA (2001 - 2003)
+Research Assistant                                                                                Los Angeles, CA
+
+UCLA                                                                                                2001 - 2003
 
 - Research on On-Demand Multicast Routing Protocol (ODMRP),  TCP over wired and single hop wireless LAN, ONR Minuteman Ad-hoc wireless networks with laptops, iPAQs, UAVs and UGVs
 - Published papers on analysis of TCP performance over multihop wireless and wired networks.
 
-Senior Research Engineer									Anyang, Korea
-LG Electronics										1994 - 2000
+Senior Research Engineer                                                                        Anyang, Korea
+
+LG Electronics                                                                                1994 - 2000
 
 - Assisted ATM-TMN launching of Korea Telecom by customizing TMN software effectively.
 - Invented simulation tool for testing TMN agents.
 - Taught new skills to the colleague programmers and led the team.
 
-####Skills
+**Skills**
+
 Languages
 
 - Proficient in C++, C, Visual Basic and Google Apps Script.
@@ -79,12 +91,16 @@ Software
 - Operating System: Unix, Linux, OS X and Windows.
 - Network Simulation and Analyzing Tools: Qualnet/GloMoSim and tcpdump.
 
-####Education
-UCLA, Los Angeles, CA (Dec. 2003)
+**Education**
+
+UCLA                                                                                        Dec. 2003, Los Angeles, CA
+
 Professional Engineer in Computer Science, Mobile Ad-Hoc Networks
 
-Seoul National University, Seoul, Korea (Feb. 1994)
+Seoul National University                                                                Feb. 1994, Seoul, Korea
+
 Masters of Science in Computer Engineering, Operating Systems
 
-Seoul National University, Seoul, Korea (Feb. 1992)
+Seoul National University                                                                Feb. 1992, Seoul, Korea
+
 Bachelor of Science in Nuclear Engineering
